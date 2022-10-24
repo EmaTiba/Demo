@@ -7,7 +7,7 @@ var Global = {
 	currentId: undefined,
 	action: 'create',
 	user: {
-		userName: 'Bob',
+		Name: 'Bob',
 		email: 'bgibilaro@valexander.com',
 		extension: '2470'
 	}
@@ -66,7 +66,7 @@ function bindEvents(){
 				// do some stuff or call a function...
 				
 				break;
-			case 'delete':
+			case 'delete:
 				// do some stuff or call a function...
 
 				break;
