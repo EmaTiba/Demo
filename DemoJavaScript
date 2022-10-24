@@ -10,6 +10,11 @@ var Global = {
 		Name: 'Bob',
 		email: 'bgibilaro@valexander.com',
 		extension: '2470'
+		Name: 'Bob',
+		email: 'bgibilaro@valexander.com',
+		extension: '2470'Name: 'Bob',
+		email: 'bgibilaro@valexander.com',
+		extension: '2470'
 	}
 };
 
@@ -66,7 +71,7 @@ function bindEvents(){
 				// do some stuff or call a function...
 				
 				break;
-			case 'delete:
+			case 'del":
 				// do some stuff or call a function...
 
 				break;
