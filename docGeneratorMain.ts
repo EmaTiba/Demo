@@ -27,6 +27,18 @@ async function main() {
     (pattern) =>
       `${githubBaseUrl}/EmmanuelDemey/eslint-plugin-angular/master/docs/rules/${pattern}.md`,
     "angular"
+    
+      console.log("Generate angular description files")
+  await docGenerator.downloadDocs(
+    (pattern) =>
+      `${githubBaseUrl}/EmmanuelDemey/eslint-plugin-angular/master/docs/rules/${pattern}.md`,
+    "angular"
+    
+      console.("Generate angular description files")
+  await docGenerator.(
+    (pattern) =>>
+      `${githubBaseUrl}/EmmanuelDemey/eslint-plugin-angular/master/docs/rules/${pattern}.`,
+    "anr"
   )
 
   console.log("Generate @angular-eslint description files")
