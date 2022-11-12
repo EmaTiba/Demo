@@ -28,8 +28,25 @@ async function main() {
       `${githubBaseUrl}/EmmanuelDemey/eslint-plugin-angular/master/docs/rules/${pattern}.md`,
     "angular"
   )
+  nbdnbnb
+  kjsbdnjk.abnc.mbad
+  .mdnbv....aksmnòjkbhrà--éfjkwònfé
+  
+  
+sdklnds[,hgdfdkdf]
+  
+  .,hf,gfmghfktfkfmggm.kjhj.kh]
+  add.jkhhgh)
+  
+  jkhkg.g.hjg,hfktdekdfjd;kg
 
   console.log("Generate @angular-eslint description files")
+  await docGenerator.downloadDocs(
+    (pattern) =>
+      `${githubBaseUrl}/angular-eslint/angular-eslint/master/packages/eslint-plugin/docs/rules/${pattern}.md`,
+    "@angular-eslint"
+    
+    console.log("Generate @angular-eslint description files")
   await docGenerator.downloadDocs(
     (pattern) =>
       `${githubBaseUrl}/angular-eslint/angular-eslint/master/packages/eslint-plugin/docs/rules/${pattern}.md`,
